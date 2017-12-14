@@ -85,7 +85,7 @@ If you are developing on a Windows system or you are running your VM on a Window
     npm install --no-bin-links
 
 This process could take a few minutes, so be patient.  Its worth it!
-
+    npm i gulp-sass@latest --save-dev
 Once complete, you'll notice two new directories and three new files: ***node_modules***, ***resources***, ***elixir.js***, ***gulpfile.js*** & ***View/Helper/ElixirHelper.php***.
 
 * ***[node_modules](https://docs.npmjs.com/files/folders#node-modules)***: This is where your Node.js modules are stored
